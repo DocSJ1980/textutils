@@ -64,6 +64,7 @@ function App() {
     </Switch>
     </div>
     </Router>
+    <div className="container my-3">Hosting on Netlify through github!</div>
     </> 
   );
 }
